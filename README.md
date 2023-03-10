@@ -1,5 +1,6 @@
 ### Hi there 👋
 :bamboo:
+:school_satchel: :mortar_board:
 <!--
 **ManuelGonzalez-S/ManuelGonzalez-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
